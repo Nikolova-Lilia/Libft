@@ -4,6 +4,7 @@ This project is about creating a library of useful functions.
 
 
 List of the functions:
+
 • isalpha
 
 • isdigit
