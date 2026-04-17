@@ -1,10 +1,10 @@
 📚 Libft – 42 Project
 
 
-My very first step into building your own tools.
+My very first step into building my own tools.
 
 
-Libft is all about recreating essential functions from the C standard library… and extending them with your own. No shortcuts, no magic — just you and the fundamentals.
+Libft is all about recreating essential functions from the C standard library… and extending them with my own. No shortcuts, no magic — just me and the fundamentals.
 
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
